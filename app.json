@@ -5,7 +5,7 @@
   "keywords": ["ios", "android", "javascript", "stripe", "terminal", "stripe terminal"],
   "env": {
     "STRIPE_TEST_SECRET_KEY": {
-      "description": "sk_test_51JxU6BSILVQGKJAEMcoTjNavu6XgDlp2qBo5Uvxr7gOf6Zb88yiHDcyA1ntyPPc0pNDayom7SqUjiRYr0iH5H3Lc00J9LY49ao",
+      "description": "pst_test_YWNjdF8xRTJaMHlIYTJGTERPTU9oLG1iVHJ5YTB2alRqUjRnY2ozeGlkSXdsT0FIcTlFRlE_00pxpEhAQX",
       "required": true
     }
   }
